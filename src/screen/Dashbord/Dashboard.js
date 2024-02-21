@@ -1,7 +1,7 @@
 // DashboardPage.js
 
 import React from 'react';
-import Logo from '../../iamge/logo.png'
+import Logo from '../../iamge/sheet1/logo.png'
 import Card from '../../components/Card';
 import Sade from '../Data';
 import './Dashboard.css';

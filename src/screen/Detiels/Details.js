@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import Logo from '../../iamge/logo.png'
+import Logo from '../../iamge/sheet1/logo.png'
 
 const DetailsPage = ({ data }) => {
   const { id } = useParams();

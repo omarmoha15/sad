@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Employees from '../Employees'; // Update the path
-import Logo from '../../iamge/logo.png'
+import Logo from '../../iamge/sheet1/logo.png'
 import './Login.css'
 
 
